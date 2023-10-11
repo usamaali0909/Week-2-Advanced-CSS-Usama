@@ -21,6 +21,7 @@ to life
 ## Link
 
 You can view the webiste by the following link:  
+file:///C:/Users/uabdu/OneDrive/Desktop/Week-2-Advanced-CSS-Usama/index.html
 
 ## User Story 
 
@@ -30,5 +31,5 @@ They can review sample and assess if i am a good candidate for the position.
 
 # Deployed Link
 
-
+https://usamaali0909.github.io/Week-2-Advanced-CSS-Usama/
 
